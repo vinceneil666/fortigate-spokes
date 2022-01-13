@@ -1,4 +1,4 @@
-Fortigate - Spokes
+Fortigate - Spokes , Terraform, Azure
 
 This will create a standalone Fortigate firewall with two nic's (public / private). It will also create 3 vnet's with 3 subnets in each with routing tables attached and
 vnet peering between all spokes and hub.
