@@ -7,9 +7,9 @@ locals {
   "Axl"    = 1
   "Slash"  = 2
   "Duff"   = 3
-# "Adler"  = 4
-# "Izzy"   = 5
-# "Dizzy"  = 6
+# "Adler"  = 4 # Remove to add in more subnets
+# "Izzy"   = 5 # Remove to add in more subnets
+# "Dizzy"  = 6 # Remove to add in more subnets
   }
 }
 ####### VNET #######
